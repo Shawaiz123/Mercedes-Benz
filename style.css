@@ -1,0 +1,74 @@
+#img1{
+    height: 100px;
+    width:140px;
+    float:left;
+}
+#h11{
+    color:whitesmoke;
+    text-align: center;
+    padding-top: 20px;
+}
+header{
+    background-color: black;
+    padding:10px
+}
+li{
+    display: inline-block;
+    padding:25px;
+    text-align: center;
+    color: white;
+}
+nav{
+    background-color: black;
+    padding:2px;
+}
+#img2{
+    height: 600px;
+    width: 100%;
+
+}
+.container{
+    position: relative;
+    color:black;
+}
+.text{
+    position: absolute;
+    bottom: 200px;
+    left: 20px;
+    font-size: 31px;
+}
+.car{
+    background-color: white;
+    width: 285px;
+    height:500px;
+    margin:10px;
+}
+img{
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+}
+button{
+width:250px;
+height:65px;
+    font-size:20px;
+    padding:10px;
+    margin:8px;
+    background-color: #318CE7;
+    border:none;
+}
+#img3{
+    float: right;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+.align div{
+    float:left;
+    clear:none;
+}
+#divEQC{
+    background-color: white;
+    opacity: 80%;
+}
