@@ -1,0 +1,42 @@
+#d1{
+    width: 1800px;
+    height: 900px;
+  background-image: url('https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1565281297/autoexpress/2019/08/19c0231_001_0.jpg');
+  background-size: 1800px 900px;
+  background-repeat:no-repeat;
+}
+#fieldset1{
+    background-color: black;
+    text-align: center;
+    width: 900px;
+    margin: 55px;
+    opacity: 70%;
+    height: 500px;
+}
+#h11{
+    color: white;
+    text-align: center;
+}
+label{
+    color: black;
+    font-size: 25px;
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+}
+#form1{
+    background-color: white;
+    height: 390px;
+    text-align: center;
+
+}
+input{
+    height: 30px;
+}
+#button1{
+    color: white;
+    width: 160px;
+    height: 35px;
+    background-color: #088cc4;
+}
